@@ -227,7 +227,7 @@
 "RuntimeGC" : 4.0,
 "Prison Labor" : 10.0,
 "Centralized Climate Control" : 15.0,
-"time" : "Sun 17 Mar 2019 03:12:35 PM CET",
+"time" : "Sun Mar 17 20:28:20 2019",
 "More Steel" : 14.0,
 "[B19] Farmable Neutroamine" : 14.0,
 "gloomy_hair" : 13.0,
@@ -836,5 +836,8 @@
 "No Burny (less flammable metals)" : 17.0,
 "WM Hydroponics with lamps" : 15.0,
 "[FSF] No Default Shelf Storage" : 17.0,
-"Haul to Stack" : 16.0
+"Haul to Stack" : 16.0,
+"RimThemes pack Future" : 17.1,
+"RimThemes Aliens Pack" : 17.1,
+"Startup impact" : 1.1
 }
