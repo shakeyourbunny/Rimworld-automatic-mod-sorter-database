@@ -1,5 +1,6 @@
 {
-"Version" : 0.43,
+"RWMS_version" : 0.45,
+"RWMS_database_version" : 0.10005,
 "Megafauna" : 8.0,
 "Therapy" : 7.0,
 "Prepare Landing" : 18.0,
@@ -227,7 +228,7 @@
 "RuntimeGC" : 4.0,
 "Prison Labor" : 10.0,
 "Centralized Climate Control" : 15.0,
-"time" : "Sun Mar 17 20:28:20 2019",
+"time" : "Sun Mar 17 23:02:48 2019",
 "More Steel" : 14.0,
 "[B19] Farmable Neutroamine" : 14.0,
 "gloomy_hair" : 13.0,
@@ -839,5 +840,6 @@
 "Haul to Stack" : 16.0,
 "RimThemes pack Future" : 17.1,
 "RimThemes Aliens Pack" : 17.1,
-"Startup impact" : 1.1
+"Startup impact" : 1.1,
+"Rimlaser" : 14.0
 }
